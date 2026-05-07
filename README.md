@@ -19,7 +19,6 @@ Can a school of fish be modeled like atomic spins in a magnet? To answer this, w
 |-- fish_thermalization_susceptibility.py    # Core Vicsek model simulator and phase transition sweep
 |-- maximum_fititng_bin.py                   # Statistical peak analysis script 
 |-- results_plotting.py                      # Final visualization script
-|-- Group_18_Poster.pdf                      # Full group project poster (Contains Nuclear & Active Matter sections)
 `-- README.md
 ```
 ## Code Module Descriptions
